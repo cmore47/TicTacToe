@@ -1,0 +1,3 @@
+# Ignore everything in this folder, only want the folder structure to stay.
+*
+!.gitignore
